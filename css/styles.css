@@ -53,3 +53,12 @@ a, a:hover {
   /* to override underline/blue hover from bootstrao */
   color: inherit;
   text-decoration: none; }
+
+/* RESERVE&LOGIN MODALS */
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
